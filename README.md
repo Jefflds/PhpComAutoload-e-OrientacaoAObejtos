@@ -1,0 +1,1 @@
+# PhpComAutoload-e-OrientacaoAObejtos
